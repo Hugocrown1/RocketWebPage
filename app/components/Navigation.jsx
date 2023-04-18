@@ -10,7 +10,12 @@ const links = [{
   {
     label: 'Colaboraciones',
     route: '/collabs'
+  },
+  {
+    label: 'Rocket Tarro',
+    route: '/rocket-tarro'
   }
+
   ]
 export function Navigation () {
     return(
