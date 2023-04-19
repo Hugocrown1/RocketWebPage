@@ -4,6 +4,7 @@ import tarroDemo from "../public/demo.png";
 import tarroDemo2 from "../public/demo2.png";
 import tarroDemo3 from "../public/tarros.jpg";
 import tarroVenta from "../public/tarro_clean.png";
+
 import ProductElement from "./components/ProductElement";
 import Phrase from "./components/Phrase";
 

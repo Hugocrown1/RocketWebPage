@@ -13,7 +13,7 @@ const links = [{
   },
   {
     label: 'Rocket Tarro',
-    route: '/rocket-tarro'
+    route: 'products/rocket-tarro'
   }
 
   ]
